@@ -65,7 +65,7 @@ p{
 }
 .btn:hover{
   background:#fff;
-  color:##30D5C8;
+  color:#30D5C8;
 }
 .header{
   background: rgb(49,225,239);
@@ -116,7 +116,7 @@ p{
   border-radius:5px;
   position: absolute;
   bottom: 0;
-  left: 50;
+  margin-left: 50px;
   transform: translateX(-50%);
 }
 h4{
