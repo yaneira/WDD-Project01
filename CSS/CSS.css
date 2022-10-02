@@ -31,6 +31,10 @@ a{  /*item style*/
 p{
   color: #555;
 }
+.logo img{
+flex-basis: 50%;
+max-width: 130px;
+}
 .container{ /*container with the nav area*/
   max-width: 1300px;
   margin: auto;
@@ -209,15 +213,13 @@ small{
   margin: 20px;
   text-align: center;
 }
-.logo-2{
-  text-align: center;
-}
 .footer-col-1, .footer-col-2{
   min-width: 250px;
   margin-bottom: 20px;
 }
 .footer-col-1{
   flex-basis: 50%;
+text-align: center;
 }
 .footer-col-2{
   flex:1;
